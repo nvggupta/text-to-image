@@ -1,0 +1,13 @@
+.search{
+  display: flex;
+  flex-direction: column;
+  height: 100vw;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 100px;
+}
+.image{
+  height: 400px;
+  width: 400px;
+
+}
